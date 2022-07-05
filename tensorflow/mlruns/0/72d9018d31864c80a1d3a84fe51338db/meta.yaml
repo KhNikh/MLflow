@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nipun/Downloads/Image%20Classification%20Starter/mlflow/new/tensorflow/mlruns/0/72d9018d31864c80a1d3a84fe51338db/artifacts
+end_time: 1657014882157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 72d9018d31864c80a1d3a84fe51338db
+run_uuid: 72d9018d31864c80a1d3a84fe51338db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657014882127
+status: 4
+tags: []
+user_id: nipun
